@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    background-image: url(/images/bg\ image.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+
+.skills-padding{
+    padding: 70px 0;
+}
