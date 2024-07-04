@@ -3,13 +3,23 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Poppins';font-size: 22px;
+}
 .banner{
     background-image: url(/images/bg\ image.webp);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px 0;
 }
+.fixed-card{
+    height: 300px;
+    overflow: hidden;
+}
 
+.card-body{
+    overflow-y: auto;
+}
 .skills-padding{
     padding: 70px 0;
 }
